@@ -76,3 +76,4 @@ main(int argc,char **argv)
 {
     daemon_init(argv[1]);
 }
+
